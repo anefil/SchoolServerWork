@@ -1,0 +1,1 @@
+[{"Name":"Єгор","Surname":"Філатов","OlympiadId":"12078","Result":"45"}]
